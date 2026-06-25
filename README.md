@@ -1,75 +1,139 @@
-# Nuxt Minimal Starter
+# Holink SEO Tools Directory
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A Nuxt app for the Holink take-home assessment. It turns the provided `data/tools.json` dataset into a software tools directory with one SEO-friendly detail page per record.
 
-## Setup
+The app uses one dynamic template for all 50 tool detail pages instead of creating pages manually.
 
-Make sure to install dependencies:
+## Features
+
+- Homepage at `/`
+- Tools index at `/tools`
+- Dynamic detail pages at `/tools/[slug]`
+- SSG/prerendered pages, not client-only rendering
+- Unique SEO metadata per tool page
+- Canonical URL and Open Graph tags
+- `SoftwareApplication` JSON-LD
+- Generated `sitemap.xml`
+- Generated `robots.txt`
+- Responsive layout
+
+## How to Run
+
+Install dependencies:
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+Run development server:
 
 ```bash
-# npm
 npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
-
-Build the application for production:
+Open:
 
 ```bash
-# npm
+http://localhost:3000
+```
+
+Build for production:
+
+```bash
 npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
 ```
 
-Locally preview production build:
+Preview production build:
 
 ```bash
-# npm
 npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## Routes
+
+```txt
+/                 Homepage
+/tools            Tools index page
+/tools/[slug]     Tool detail page
+/sitemap.xml      Generated sitemap
+/robots.txt       Generated robots file
+```
+
+Example detail pages:
+
+```txt
+/tools/bioglow
+/tools/tapnest
+/tools/rankradar
+/tools/voicevane
+```
+
+## Data Source
+
+The app reads records from:
+
+```txt
+data/tools.json
+```
+
+Each record includes fields like `slug`, `name`, `category`, `tagline`, `description`, `features`, `pricing`, `platforms`, `rating`, `reviews`, `website`, and `image`.
+
+The `slug` field is used to generate each detail page URL.
+
+## Rendering Strategy
+
+This project uses SSG/prerendering because the dataset is static and limited to 50 records.
+
+Each tool detail page is generated at build time, so search engines and social crawlers receive complete HTML with page content and SEO metadata without depending on client-side JavaScript rendering.
+
+This fits the task because the content is stable, small, fast to prerender, and SEO-focused.
+
+## SEO Implementation
+
+Each tool detail page generates from its matching record:
+
+- unique `<title>`
+- meta description
+- canonical URL
+- Open Graph title, description, URL, and image
+- JSON-LD structured data
+- exactly one `<h1>`
+
+Example title:
+
+```txt
+BioGlow - Turn a single profile link into a mini landing page. | Holink
+```
+
+## Structured Data Schema
+
+Each detail page uses `SoftwareApplication` JSON-LD because every record represents a software/tool listing.
+
+The schema maps the available data into structured fields such as tool name, description, category, supported platforms, image, website URL, pricing, rating, and review count.
+
+## Sitemap and Robots
+
+The app generates:
+
+```txt
+/sitemap.xml
+/robots.txt
+```
+
+The sitemap includes `/`, `/tools`, and all 50 `/tools/[slug]` pages. The robots file allows crawling and points to the sitemap.
+
+## Environment Variable
+
+Set the production site URL with:
+
+```bash
+NUXT_PUBLIC_SITE_URL=https://your-live-domain.com
+```
+
+This is used for canonical URLs, Open Graph URLs, sitemap URLs, and the robots.txt sitemap reference.
+
+If not set, the app falls back to:
+
+```bash
+http://localhost:3000
+```
