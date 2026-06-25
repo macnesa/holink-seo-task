@@ -1,0 +1,1195 @@
+[
+  {
+    "id": 1,
+    "slug": "bioglow",
+    "name": "BioGlow",
+    "category": "Link in Bio",
+    "tagline": "Turn a single profile link into a mini landing page.",
+    "description": "BioGlow is a link in bio tool built for creators and small brands. It helps you turn a single profile link into a mini landing page, with features like custom domains, unlimited links, and click analytics. BioGlow keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "custom domains",
+      "unlimited links",
+      "click analytics",
+      "theme builder"
+    ],
+    "pricing": "$9/mo",
+    "platforms": [
+      "Web",
+      "Android"
+    ],
+    "rating": 4.7,
+    "reviews": 1544,
+    "website": "https://example.com/tools/bioglow",
+    "image": "https://picsum.photos/seed/bioglow/600/400"
+  },
+  {
+    "id": 2,
+    "slug": "tapnest",
+    "name": "TapNest",
+    "category": "Link in Bio",
+    "tagline": "Turn a single profile link into a mini landing page.",
+    "description": "TapNest is a link in bio tool built for creators and small brands. It helps you turn a single profile link into a mini landing page, with features like unlimited links, click analytics, and scheduled links. TapNest keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "unlimited links",
+      "click analytics",
+      "scheduled links",
+      "customizable bio pages"
+    ],
+    "pricing": "Free",
+    "platforms": [
+      "Web",
+      "Android"
+    ],
+    "rating": 4.5,
+    "reviews": 6993,
+    "website": "https://example.com/tools/tapnest",
+    "image": "https://picsum.photos/seed/tapnest/600/400"
+  },
+  {
+    "id": 3,
+    "slug": "linkloom",
+    "name": "LinkLoom",
+    "category": "Link in Bio",
+    "tagline": "Turn a single profile link into a mini landing page.",
+    "description": "LinkLoom is a link in bio tool built for creators and small brands. It helps you turn a single profile link into a mini landing page, with features like scheduled links, theme builder, and customizable bio pages. LinkLoom keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "scheduled links",
+      "theme builder",
+      "customizable bio pages",
+      "click analytics"
+    ],
+    "pricing": "$9/mo",
+    "platforms": [
+      "Web",
+      "API",
+      "Android",
+      "Chrome Extension"
+    ],
+    "rating": 4.2,
+    "reviews": 5634,
+    "website": "https://example.com/tools/linkloom",
+    "image": "https://picsum.photos/seed/linkloom/600/400"
+  },
+  {
+    "id": 4,
+    "slug": "pocketbio",
+    "name": "PocketBio",
+    "category": "Link in Bio",
+    "tagline": "Turn a single profile link into a mini landing page.",
+    "description": "PocketBio is a link in bio tool built for creators and small brands. It helps you turn a single profile link into a mini landing page, with features like click analytics, unlimited links, and theme builder. PocketBio keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "click analytics",
+      "unlimited links",
+      "theme builder",
+      "custom domains"
+    ],
+    "pricing": "$49/mo",
+    "platforms": [
+      "Web",
+      "Chrome Extension",
+      "iOS"
+    ],
+    "rating": 4.5,
+    "reviews": 6321,
+    "website": "https://example.com/tools/pocketbio",
+    "image": "https://picsum.photos/seed/pocketbio/600/400"
+  },
+  {
+    "id": 5,
+    "slug": "shortly-pro",
+    "name": "Shortly Pro",
+    "category": "URL Shortener",
+    "tagline": "Create short, trackable branded links.",
+    "description": "Shortly Pro is a url shortener tool built for marketing teams. It helps you create short, trackable branded links, with features like link expiration, QR code generation, and bulk shortening. Shortly Pro keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "link expiration",
+      "QR code generation",
+      "bulk shortening",
+      "click tracking"
+    ],
+    "pricing": "Free",
+    "platforms": [
+      "Web",
+      "Android",
+      "Chrome Extension",
+      "iOS"
+    ],
+    "rating": 4.6,
+    "reviews": 4861,
+    "website": "https://example.com/tools/shortly-pro",
+    "image": "https://picsum.photos/seed/shortly-pro/600/400"
+  },
+  {
+    "id": 6,
+    "slug": "sniproute",
+    "name": "SnipRoute",
+    "category": "URL Shortener",
+    "tagline": "Create short, trackable branded links.",
+    "description": "SnipRoute is a url shortener tool built for marketing teams. It helps you create short, trackable branded links, with features like bulk shortening, click tracking, and UTM builder. SnipRoute keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "bulk shortening",
+      "click tracking",
+      "UTM builder",
+      "link expiration"
+    ],
+    "pricing": "$29/mo",
+    "platforms": [
+      "Web",
+      "Chrome Extension",
+      "iOS"
+    ],
+    "rating": 4.3,
+    "reviews": 4494,
+    "website": "https://example.com/tools/sniproute",
+    "image": "https://picsum.photos/seed/sniproute/600/400"
+  },
+  {
+    "id": 7,
+    "slug": "tinytrail",
+    "name": "TinyTrail",
+    "category": "URL Shortener",
+    "tagline": "Create short, trackable branded links.",
+    "description": "TinyTrail is a url shortener tool built for marketing teams. It helps you create short, trackable branded links, with features like bulk shortening, UTM builder, and click tracking. TinyTrail keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "bulk shortening",
+      "UTM builder",
+      "click tracking",
+      "QR code generation"
+    ],
+    "pricing": "$39/mo",
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "rating": 4.2,
+    "reviews": 3718,
+    "website": "https://example.com/tools/tinytrail",
+    "image": "https://picsum.photos/seed/tinytrail/600/400"
+  },
+  {
+    "id": 8,
+    "slug": "redirectiq",
+    "name": "RedirectIQ",
+    "category": "URL Shortener",
+    "tagline": "Create short, trackable branded links.",
+    "description": "RedirectIQ is a url shortener tool built for marketing teams. It helps you create short, trackable branded links, with features like QR code generation, UTM builder, and bulk shortening. RedirectIQ keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "QR code generation",
+      "UTM builder",
+      "bulk shortening",
+      "branded short links"
+    ],
+    "pricing": "Freemium",
+    "platforms": [
+      "Web",
+      "API",
+      "Android"
+    ],
+    "rating": 4.2,
+    "reviews": 5275,
+    "website": "https://example.com/tools/redirectiq",
+    "image": "https://picsum.photos/seed/redirectiq/600/400"
+  },
+  {
+    "id": 9,
+    "slug": "pulsemetrics",
+    "name": "PulseMetrics",
+    "category": "Analytics",
+    "tagline": "Understand visitor behavior in real time.",
+    "description": "PulseMetrics is a analytics tool built for product and growth teams. It helps you understand visitor behavior in real time, with features like real-time dashboards, privacy-friendly tracking, and custom events. PulseMetrics keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "real-time dashboards",
+      "privacy-friendly tracking",
+      "custom events",
+      "exportable reports"
+    ],
+    "pricing": "$9/mo",
+    "platforms": [
+      "Web",
+      "Chrome Extension"
+    ],
+    "rating": 4.2,
+    "reviews": 4424,
+    "website": "https://example.com/tools/pulsemetrics",
+    "image": "https://picsum.photos/seed/pulsemetrics/600/400"
+  },
+  {
+    "id": 10,
+    "slug": "trackhive",
+    "name": "TrackHive",
+    "category": "Analytics",
+    "tagline": "Understand visitor behavior in real time.",
+    "description": "TrackHive is a analytics tool built for product and growth teams. It helps you understand visitor behavior in real time, with features like real-time dashboards, funnel tracking, and custom events. TrackHive keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "real-time dashboards",
+      "funnel tracking",
+      "custom events",
+      "audience segments"
+    ],
+    "pricing": "$49/mo",
+    "platforms": [
+      "Web",
+      "Android",
+      "iOS"
+    ],
+    "rating": 4.1,
+    "reviews": 891,
+    "website": "https://example.com/tools/trackhive",
+    "image": "https://picsum.photos/seed/trackhive/600/400"
+  },
+  {
+    "id": 11,
+    "slug": "visito",
+    "name": "Visito",
+    "category": "Analytics",
+    "tagline": "Understand visitor behavior in real time.",
+    "description": "Visito is a analytics tool built for product and growth teams. It helps you understand visitor behavior in real time, with features like privacy-friendly tracking, audience segments, and custom events. Visito keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "privacy-friendly tracking",
+      "audience segments",
+      "custom events",
+      "exportable reports"
+    ],
+    "pricing": "$49/mo",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android",
+      "Chrome Extension"
+    ],
+    "rating": 4.5,
+    "reviews": 308,
+    "website": "https://example.com/tools/visito",
+    "image": "https://picsum.photos/seed/visito/600/400"
+  },
+  {
+    "id": 12,
+    "slug": "insightflow",
+    "name": "InsightFlow",
+    "category": "Analytics",
+    "tagline": "Understand visitor behavior in real time.",
+    "description": "InsightFlow is a analytics tool built for product and growth teams. It helps you understand visitor behavior in real time, with features like exportable reports, funnel tracking, and audience segments. InsightFlow keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "exportable reports",
+      "funnel tracking",
+      "audience segments",
+      "custom events"
+    ],
+    "pricing": "$39/mo",
+    "platforms": [
+      "Web",
+      "Chrome Extension"
+    ],
+    "rating": 4.1,
+    "reviews": 173,
+    "website": "https://example.com/tools/insightflow",
+    "image": "https://picsum.photos/seed/insightflow/600/400"
+  },
+  {
+    "id": 13,
+    "slug": "mailmover",
+    "name": "MailMover",
+    "category": "Email Marketing",
+    "tagline": "Send campaigns and automate follow-ups.",
+    "description": "MailMover is a email marketing tool built for marketers and small businesses. It helps you send campaigns and automate follow-ups, with features like list segmentation, drag-and-drop builder, and deliverability tools. MailMover keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "list segmentation",
+      "drag-and-drop builder",
+      "deliverability tools",
+      "automation flows"
+    ],
+    "pricing": "$9/mo",
+    "platforms": [
+      "Web",
+      "Chrome Extension",
+      "API",
+      "iOS"
+    ],
+    "rating": 4.3,
+    "reviews": 2766,
+    "website": "https://example.com/tools/mailmover",
+    "image": "https://picsum.photos/seed/mailmover/600/400"
+  },
+  {
+    "id": 14,
+    "slug": "inboxspark",
+    "name": "InboxSpark",
+    "category": "Email Marketing",
+    "tagline": "Send campaigns and automate follow-ups.",
+    "description": "InboxSpark is a email marketing tool built for marketers and small businesses. It helps you send campaigns and automate follow-ups, with features like list segmentation, automation flows, and A/B testing. InboxSpark keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "list segmentation",
+      "automation flows",
+      "A/B testing",
+      "drag-and-drop builder"
+    ],
+    "pricing": "$29/mo",
+    "platforms": [
+      "Web",
+      "iOS",
+      "API"
+    ],
+    "rating": 4.8,
+    "reviews": 5158,
+    "website": "https://example.com/tools/inboxspark",
+    "image": "https://picsum.photos/seed/inboxspark/600/400"
+  },
+  {
+    "id": 15,
+    "slug": "sendcrest",
+    "name": "SendCrest",
+    "category": "Email Marketing",
+    "tagline": "Send campaigns and automate follow-ups.",
+    "description": "SendCrest is a email marketing tool built for marketers and small businesses. It helps you send campaigns and automate follow-ups, with features like list segmentation, deliverability tools, and A/B testing. SendCrest keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "list segmentation",
+      "deliverability tools",
+      "A/B testing",
+      "signup forms"
+    ],
+    "pricing": "Freemium",
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "rating": 4.9,
+    "reviews": 2180,
+    "website": "https://example.com/tools/sendcrest",
+    "image": "https://picsum.photos/seed/sendcrest/600/400"
+  },
+  {
+    "id": 16,
+    "slug": "dripforge",
+    "name": "DripForge",
+    "category": "Email Marketing",
+    "tagline": "Send campaigns and automate follow-ups.",
+    "description": "DripForge is a email marketing tool built for marketers and small businesses. It helps you send campaigns and automate follow-ups, with features like drag-and-drop builder, A/B testing, and deliverability tools. DripForge keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "drag-and-drop builder",
+      "A/B testing",
+      "deliverability tools",
+      "signup forms"
+    ],
+    "pricing": "$19/mo",
+    "platforms": [
+      "Web",
+      "Android"
+    ],
+    "rating": 4.4,
+    "reviews": 6238,
+    "website": "https://example.com/tools/dripforge",
+    "image": "https://picsum.photos/seed/dripforge/600/400"
+  },
+  {
+    "id": 17,
+    "slug": "slotsync",
+    "name": "SlotSync",
+    "category": "Scheduling",
+    "tagline": "Let people book time without back-and-forth emails.",
+    "description": "SlotSync is a scheduling tool built for consultants and sales teams. It helps you let people book time without back-and-forth emails, with features like calendar sync, automated reminders, and shared booking pages. SlotSync keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "calendar sync",
+      "automated reminders",
+      "shared booking pages",
+      "payment collection"
+    ],
+    "pricing": "$29/mo",
+    "platforms": [
+      "Web",
+      "iOS"
+    ],
+    "rating": 4.0,
+    "reviews": 3890,
+    "website": "https://example.com/tools/slotsync",
+    "image": "https://picsum.photos/seed/slotsync/600/400"
+  },
+  {
+    "id": 18,
+    "slug": "meetweaver",
+    "name": "MeetWeaver",
+    "category": "Scheduling",
+    "tagline": "Let people book time without back-and-forth emails.",
+    "description": "MeetWeaver is a scheduling tool built for consultants and sales teams. It helps you let people book time without back-and-forth emails, with features like payment collection, automated reminders, and group scheduling. MeetWeaver keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "payment collection",
+      "automated reminders",
+      "group scheduling",
+      "shared booking pages"
+    ],
+    "pricing": "Free",
+    "platforms": [
+      "Web",
+      "iOS"
+    ],
+    "rating": 4.8,
+    "reviews": 1280,
+    "website": "https://example.com/tools/meetweaver",
+    "image": "https://picsum.photos/seed/meetweaver/600/400"
+  },
+  {
+    "id": 19,
+    "slug": "calenlink",
+    "name": "CalenLink",
+    "category": "Scheduling",
+    "tagline": "Let people book time without back-and-forth emails.",
+    "description": "CalenLink is a scheduling tool built for consultants and sales teams. It helps you let people book time without back-and-forth emails, with features like shared booking pages, payment collection, and group scheduling. CalenLink keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "shared booking pages",
+      "payment collection",
+      "group scheduling",
+      "automated reminders"
+    ],
+    "pricing": "$49/mo",
+    "platforms": [
+      "Web",
+      "Android"
+    ],
+    "rating": 4.2,
+    "reviews": 7869,
+    "website": "https://example.com/tools/calenlink",
+    "image": "https://picsum.photos/seed/calenlink/600/400"
+  },
+  {
+    "id": 20,
+    "slug": "bookbean",
+    "name": "BookBean",
+    "category": "Scheduling",
+    "tagline": "Let people book time without back-and-forth emails.",
+    "description": "BookBean is a scheduling tool built for consultants and sales teams. It helps you let people book time without back-and-forth emails, with features like automated reminders, time-zone detection, and payment collection. BookBean keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "automated reminders",
+      "time-zone detection",
+      "payment collection",
+      "shared booking pages"
+    ],
+    "pricing": "$49/mo",
+    "platforms": [
+      "Web",
+      "API",
+      "Android"
+    ],
+    "rating": 4.8,
+    "reviews": 1007,
+    "website": "https://example.com/tools/bookbean",
+    "image": "https://picsum.photos/seed/bookbean/600/400"
+  },
+  {
+    "id": 21,
+    "slug": "formfizz",
+    "name": "FormFizz",
+    "category": "Form Builder",
+    "tagline": "Build forms and collect responses.",
+    "description": "FormFizz is a form builder tool built for teams collecting data. It helps you build forms and collect responses, with features like file uploads, spam protection, and conditional logic. FormFizz keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "file uploads",
+      "spam protection",
+      "conditional logic",
+      "webhook integrations"
+    ],
+    "pricing": "$12/mo",
+    "platforms": [
+      "Web",
+      "Android"
+    ],
+    "rating": 4.2,
+    "reviews": 7470,
+    "website": "https://example.com/tools/formfizz",
+    "image": "https://picsum.photos/seed/formfizz/600/400"
+  },
+  {
+    "id": 22,
+    "slug": "fieldform",
+    "name": "FieldForm",
+    "category": "Form Builder",
+    "tagline": "Build forms and collect responses.",
+    "description": "FieldForm is a form builder tool built for teams collecting data. It helps you build forms and collect responses, with features like drag-and-drop fields, spam protection, and webhook integrations. FieldForm keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "drag-and-drop fields",
+      "spam protection",
+      "webhook integrations",
+      "response analytics"
+    ],
+    "pricing": "$49/mo",
+    "platforms": [
+      "Web",
+      "iOS"
+    ],
+    "rating": 4.7,
+    "reviews": 1724,
+    "website": "https://example.com/tools/fieldform",
+    "image": "https://picsum.photos/seed/fieldform/600/400"
+  },
+  {
+    "id": 23,
+    "slug": "quickfields",
+    "name": "QuickFields",
+    "category": "Form Builder",
+    "tagline": "Build forms and collect responses.",
+    "description": "QuickFields is a form builder tool built for teams collecting data. It helps you build forms and collect responses, with features like conditional logic, spam protection, and file uploads. QuickFields keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "conditional logic",
+      "spam protection",
+      "file uploads",
+      "response analytics"
+    ],
+    "pricing": "$49/mo",
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "rating": 4.4,
+    "reviews": 6690,
+    "website": "https://example.com/tools/quickfields",
+    "image": "https://picsum.photos/seed/quickfields/600/400"
+  },
+  {
+    "id": 24,
+    "slug": "pagebloom",
+    "name": "PageBloom",
+    "category": "Landing Page",
+    "tagline": "Launch high-converting pages fast.",
+    "description": "PageBloom is a landing page tool built for marketers and founders. It helps you launch high-converting pages fast, with features like fast page loads, popup builder, and form integrations. PageBloom keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "fast page loads",
+      "popup builder",
+      "form integrations",
+      "SEO controls"
+    ],
+    "pricing": "$39/mo",
+    "platforms": [
+      "Web",
+      "API",
+      "Android"
+    ],
+    "rating": 4.6,
+    "reviews": 8093,
+    "website": "https://example.com/tools/pagebloom",
+    "image": "https://picsum.photos/seed/pagebloom/600/400"
+  },
+  {
+    "id": 25,
+    "slug": "landpress",
+    "name": "LandPress",
+    "category": "Landing Page",
+    "tagline": "Launch high-converting pages fast.",
+    "description": "LandPress is a landing page tool built for marketers and founders. It helps you launch high-converting pages fast, with features like popup builder, SEO controls, and prebuilt templates. LandPress keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "popup builder",
+      "SEO controls",
+      "prebuilt templates",
+      "fast page loads"
+    ],
+    "pricing": "Free",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Chrome Extension",
+      "Android"
+    ],
+    "rating": 4.0,
+    "reviews": 7931,
+    "website": "https://example.com/tools/landpress",
+    "image": "https://picsum.photos/seed/landpress/600/400"
+  },
+  {
+    "id": 26,
+    "slug": "foldhero",
+    "name": "FoldHero",
+    "category": "Landing Page",
+    "tagline": "Launch high-converting pages fast.",
+    "description": "FoldHero is a landing page tool built for marketers and founders. It helps you launch high-converting pages fast, with features like SEO controls, fast page loads, and prebuilt templates. FoldHero keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "SEO controls",
+      "fast page loads",
+      "prebuilt templates",
+      "A/B testing"
+    ],
+    "pricing": "Freemium",
+    "platforms": [
+      "Web",
+      "iOS"
+    ],
+    "rating": 4.6,
+    "reviews": 3973,
+    "website": "https://example.com/tools/foldhero",
+    "image": "https://picsum.photos/seed/foldhero/600/400"
+  },
+  {
+    "id": 27,
+    "slug": "pixelcrate",
+    "name": "PixelCrate",
+    "category": "Design",
+    "tagline": "Create on-brand visuals quickly.",
+    "description": "PixelCrate is a design tool built for design and content teams. It helps you create on-brand visuals quickly, with features like version history, export presets, and real-time collaboration. PixelCrate keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "version history",
+      "export presets",
+      "real-time collaboration",
+      "brand kits"
+    ],
+    "pricing": "$19/mo",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android",
+      "Chrome Extension"
+    ],
+    "rating": 4.2,
+    "reviews": 5267,
+    "website": "https://example.com/tools/pixelcrate",
+    "image": "https://picsum.photos/seed/pixelcrate/600/400"
+  },
+  {
+    "id": 28,
+    "slug": "canvasnest",
+    "name": "CanvasNest",
+    "category": "Design",
+    "tagline": "Create on-brand visuals quickly.",
+    "description": "CanvasNest is a design tool built for design and content teams. It helps you create on-brand visuals quickly, with features like export presets, version history, and template library. CanvasNest keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "export presets",
+      "version history",
+      "template library",
+      "stock assets"
+    ],
+    "pricing": "Free",
+    "platforms": [
+      "Web",
+      "Chrome Extension",
+      "iOS"
+    ],
+    "rating": 4.4,
+    "reviews": 1758,
+    "website": "https://example.com/tools/canvasnest",
+    "image": "https://picsum.photos/seed/canvasnest/600/400"
+  },
+  {
+    "id": 29,
+    "slug": "vectorbay",
+    "name": "VectorBay",
+    "category": "Design",
+    "tagline": "Create on-brand visuals quickly.",
+    "description": "VectorBay is a design tool built for design and content teams. It helps you create on-brand visuals quickly, with features like version history, stock assets, and real-time collaboration. VectorBay keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "version history",
+      "stock assets",
+      "real-time collaboration",
+      "brand kits"
+    ],
+    "pricing": "Freemium",
+    "platforms": [
+      "Web",
+      "Chrome Extension"
+    ],
+    "rating": 4.8,
+    "reviews": 6174,
+    "website": "https://example.com/tools/vectorbay",
+    "image": "https://picsum.photos/seed/vectorbay/600/400"
+  },
+  {
+    "id": 30,
+    "slug": "clientcove",
+    "name": "ClientCove",
+    "category": "CRM",
+    "tagline": "Track leads and close more deals.",
+    "description": "ClientCove is a crm tool built for sales teams. It helps you track leads and close more deals, with features like contact management, reporting dashboards, and shared team inbox. ClientCove keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "contact management",
+      "reporting dashboards",
+      "shared team inbox",
+      "task reminders"
+    ],
+    "pricing": "Freemium",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Chrome Extension",
+      "Android"
+    ],
+    "rating": 4.8,
+    "reviews": 2320,
+    "website": "https://example.com/tools/clientcove",
+    "image": "https://picsum.photos/seed/clientcove/600/400"
+  },
+  {
+    "id": 31,
+    "slug": "dealdeck",
+    "name": "DealDeck",
+    "category": "CRM",
+    "tagline": "Track leads and close more deals.",
+    "description": "DealDeck is a crm tool built for sales teams. It helps you track leads and close more deals, with features like deal pipelines, task reminders, and shared team inbox. DealDeck keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "deal pipelines",
+      "task reminders",
+      "shared team inbox",
+      "reporting dashboards"
+    ],
+    "pricing": "$12/mo",
+    "platforms": [
+      "Web",
+      "Chrome Extension",
+      "API"
+    ],
+    "rating": 4.6,
+    "reviews": 3455,
+    "website": "https://example.com/tools/dealdeck",
+    "image": "https://picsum.photos/seed/dealdeck/600/400"
+  },
+  {
+    "id": 32,
+    "slug": "relatehub",
+    "name": "RelateHub",
+    "category": "CRM",
+    "tagline": "Track leads and close more deals.",
+    "description": "RelateHub is a crm tool built for sales teams. It helps you track leads and close more deals, with features like reporting dashboards, contact management, and deal pipelines. RelateHub keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "reporting dashboards",
+      "contact management",
+      "deal pipelines",
+      "task reminders"
+    ],
+    "pricing": "$19/mo",
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "rating": 4.0,
+    "reviews": 5584,
+    "website": "https://example.com/tools/relatehub",
+    "image": "https://picsum.photos/seed/relatehub/600/400"
+  },
+  {
+    "id": 33,
+    "slug": "flowforge",
+    "name": "FlowForge",
+    "category": "Automation",
+    "tagline": "Connect your apps and automate busywork.",
+    "description": "FlowForge is a automation tool built for operations teams. It helps you connect your apps and automate busywork, with features like visual workflow builder, conditional steps, and error handling. FlowForge keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "visual workflow builder",
+      "conditional steps",
+      "error handling",
+      "webhooks"
+    ],
+    "pricing": "Freemium",
+    "platforms": [
+      "Web",
+      "API",
+      "Chrome Extension",
+      "iOS"
+    ],
+    "rating": 4.1,
+    "reviews": 2562,
+    "website": "https://example.com/tools/flowforge",
+    "image": "https://picsum.photos/seed/flowforge/600/400"
+  },
+  {
+    "id": 34,
+    "slug": "automesh",
+    "name": "AutoMesh",
+    "category": "Automation",
+    "tagline": "Connect your apps and automate busywork.",
+    "description": "AutoMesh is a automation tool built for operations teams. It helps you connect your apps and automate busywork, with features like app integrations, webhooks, and conditional steps. AutoMesh keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "app integrations",
+      "webhooks",
+      "conditional steps",
+      "scheduled tasks"
+    ],
+    "pricing": "$19/mo",
+    "platforms": [
+      "Web",
+      "Android",
+      "iOS"
+    ],
+    "rating": 4.3,
+    "reviews": 773,
+    "website": "https://example.com/tools/automesh",
+    "image": "https://picsum.photos/seed/automesh/600/400"
+  },
+  {
+    "id": 35,
+    "slug": "taskpilot",
+    "name": "TaskPilot",
+    "category": "Automation",
+    "tagline": "Connect your apps and automate busywork.",
+    "description": "TaskPilot is a automation tool built for operations teams. It helps you connect your apps and automate busywork, with features like conditional steps, visual workflow builder, and webhooks. TaskPilot keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "conditional steps",
+      "visual workflow builder",
+      "webhooks",
+      "error handling"
+    ],
+    "pricing": "$9/mo",
+    "platforms": [
+      "Web",
+      "API",
+      "Chrome Extension"
+    ],
+    "rating": 4.8,
+    "reviews": 3998,
+    "website": "https://example.com/tools/taskpilot",
+    "image": "https://picsum.photos/seed/taskpilot/600/400"
+  },
+  {
+    "id": 36,
+    "slug": "postpilot",
+    "name": "PostPilot",
+    "category": "Social Media",
+    "tagline": "Plan and publish content across channels.",
+    "description": "PostPilot is a social media tool built for social media managers. It helps you plan and publish content across channels, with features like hashtag suggestions, analytics reports, and post scheduling. PostPilot keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "hashtag suggestions",
+      "analytics reports",
+      "post scheduling",
+      "team approvals"
+    ],
+    "pricing": "$19/mo",
+    "platforms": [
+      "Web",
+      "Chrome Extension",
+      "Android",
+      "iOS"
+    ],
+    "rating": 4.1,
+    "reviews": 1891,
+    "website": "https://example.com/tools/postpilot",
+    "image": "https://picsum.photos/seed/postpilot/600/400"
+  },
+  {
+    "id": 37,
+    "slug": "hivesocial",
+    "name": "HiveSocial",
+    "category": "Social Media",
+    "tagline": "Plan and publish content across channels.",
+    "description": "HiveSocial is a social media tool built for social media managers. It helps you plan and publish content across channels, with features like content calendar, analytics reports, and hashtag suggestions. HiveSocial keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "content calendar",
+      "analytics reports",
+      "hashtag suggestions",
+      "bulk uploads"
+    ],
+    "pricing": "$12/mo",
+    "platforms": [
+      "Web",
+      "Chrome Extension",
+      "Android"
+    ],
+    "rating": 4.2,
+    "reviews": 3284,
+    "website": "https://example.com/tools/hivesocial",
+    "image": "https://picsum.photos/seed/hivesocial/600/400"
+  },
+  {
+    "id": 38,
+    "slug": "trendtide",
+    "name": "TrendTide",
+    "category": "Social Media",
+    "tagline": "Plan and publish content across channels.",
+    "description": "TrendTide is a social media tool built for social media managers. It helps you plan and publish content across channels, with features like bulk uploads, content calendar, and post scheduling. TrendTide keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "bulk uploads",
+      "content calendar",
+      "post scheduling",
+      "hashtag suggestions"
+    ],
+    "pricing": "$29/mo",
+    "platforms": [
+      "Web",
+      "API",
+      "Chrome Extension"
+    ],
+    "rating": 4.8,
+    "reviews": 2009,
+    "website": "https://example.com/tools/trendtide",
+    "image": "https://picsum.photos/seed/trendtide/600/400"
+  },
+  {
+    "id": 39,
+    "slug": "rankradar",
+    "name": "RankRadar",
+    "category": "SEO",
+    "tagline": "Track rankings and grow organic traffic.",
+    "description": "RankRadar is a seo tool built for SEO specialists and agencies. It helps you track rankings and grow organic traffic, with features like competitor reports, SERP analysis, and keyword tracking. RankRadar keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "competitor reports",
+      "SERP analysis",
+      "keyword tracking",
+      "rank alerts"
+    ],
+    "pricing": "$39/mo",
+    "platforms": [
+      "Web",
+      "API",
+      "Android",
+      "Chrome Extension"
+    ],
+    "rating": 4.5,
+    "reviews": 8499,
+    "website": "https://example.com/tools/rankradar",
+    "image": "https://picsum.photos/seed/rankradar/600/400"
+  },
+  {
+    "id": 40,
+    "slug": "keywordkite",
+    "name": "KeywordKite",
+    "category": "SEO",
+    "tagline": "Track rankings and grow organic traffic.",
+    "description": "KeywordKite is a seo tool built for SEO specialists and agencies. It helps you track rankings and grow organic traffic, with features like backlink monitoring, rank alerts, and competitor reports. KeywordKite keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "backlink monitoring",
+      "rank alerts",
+      "competitor reports",
+      "site audits"
+    ],
+    "pricing": "$29/mo",
+    "platforms": [
+      "Web",
+      "API",
+      "iOS",
+      "Chrome Extension"
+    ],
+    "rating": 4.4,
+    "reviews": 5529,
+    "website": "https://example.com/tools/keywordkite",
+    "image": "https://picsum.photos/seed/keywordkite/600/400"
+  },
+  {
+    "id": 41,
+    "slug": "serpsavvy",
+    "name": "SerpSavvy",
+    "category": "SEO",
+    "tagline": "Track rankings and grow organic traffic.",
+    "description": "SerpSavvy is a seo tool built for SEO specialists and agencies. It helps you track rankings and grow organic traffic, with features like SERP analysis, site audits, and rank alerts. SerpSavvy keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "SERP analysis",
+      "site audits",
+      "rank alerts",
+      "keyword tracking"
+    ],
+    "pricing": "$29/mo",
+    "platforms": [
+      "Web",
+      "Chrome Extension",
+      "API",
+      "Android"
+    ],
+    "rating": 4.4,
+    "reviews": 4964,
+    "website": "https://example.com/tools/serpsavvy",
+    "image": "https://picsum.photos/seed/serpsavvy/600/400"
+  },
+  {
+    "id": 42,
+    "slug": "chatcabin",
+    "name": "ChatCabin",
+    "category": "Chat & Support",
+    "tagline": "Talk to customers and resolve issues faster.",
+    "description": "ChatCabin is a chat & support tool built for support teams. It helps you talk to customers and resolve issues faster, with features like live chat widget, canned responses, and chatbots. ChatCabin keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "live chat widget",
+      "canned responses",
+      "chatbots",
+      "help center"
+    ],
+    "pricing": "$39/mo",
+    "platforms": [
+      "Web",
+      "Android",
+      "Chrome Extension",
+      "API"
+    ],
+    "rating": 4.5,
+    "reviews": 126,
+    "website": "https://example.com/tools/chatcabin",
+    "image": "https://picsum.photos/seed/chatcabin/600/400"
+  },
+  {
+    "id": 43,
+    "slug": "helphive",
+    "name": "HelpHive",
+    "category": "Chat & Support",
+    "tagline": "Talk to customers and resolve issues faster.",
+    "description": "HelpHive is a chat & support tool built for support teams. It helps you talk to customers and resolve issues faster, with features like live chat widget, CSAT surveys, and chatbots. HelpHive keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "live chat widget",
+      "CSAT surveys",
+      "chatbots",
+      "shared inbox"
+    ],
+    "pricing": "$12/mo",
+    "platforms": [
+      "Web",
+      "API",
+      "Android"
+    ],
+    "rating": 4.5,
+    "reviews": 2900,
+    "website": "https://example.com/tools/helphive",
+    "image": "https://picsum.photos/seed/helphive/600/400"
+  },
+  {
+    "id": 44,
+    "slug": "replyrook",
+    "name": "ReplyRook",
+    "category": "Chat & Support",
+    "tagline": "Talk to customers and resolve issues faster.",
+    "description": "ReplyRook is a chat & support tool built for support teams. It helps you talk to customers and resolve issues faster, with features like CSAT surveys, shared inbox, and chatbots. ReplyRook keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "CSAT surveys",
+      "shared inbox",
+      "chatbots",
+      "canned responses"
+    ],
+    "pricing": "$19/mo",
+    "platforms": [
+      "Web",
+      "Android"
+    ],
+    "rating": 4.2,
+    "reviews": 3382,
+    "website": "https://example.com/tools/replyrook",
+    "image": "https://picsum.photos/seed/replyrook/600/400"
+  },
+  {
+    "id": 45,
+    "slug": "paypebble",
+    "name": "PayPebble",
+    "category": "Payments",
+    "tagline": "Accept payments and manage billing.",
+    "description": "PayPebble is a payments tool built for online businesses. It helps you accept payments and manage billing, with features like invoice generation, payout reports, and multi-currency support. PayPebble keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "invoice generation",
+      "payout reports",
+      "multi-currency support",
+      "fraud protection"
+    ],
+    "pricing": "$12/mo",
+    "platforms": [
+      "Web",
+      "iOS",
+      "Android",
+      "Chrome Extension"
+    ],
+    "rating": 4.6,
+    "reviews": 6411,
+    "website": "https://example.com/tools/paypebble",
+    "image": "https://picsum.photos/seed/paypebble/600/400"
+  },
+  {
+    "id": 46,
+    "slug": "checkoutcub",
+    "name": "CheckoutCub",
+    "category": "Payments",
+    "tagline": "Accept payments and manage billing.",
+    "description": "CheckoutCub is a payments tool built for online businesses. It helps you accept payments and manage billing, with features like fraud protection, invoice generation, and hosted checkout. CheckoutCub keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "fraud protection",
+      "invoice generation",
+      "hosted checkout",
+      "recurring billing"
+    ],
+    "pricing": "$12/mo",
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "rating": 4.2,
+    "reviews": 8606,
+    "website": "https://example.com/tools/checkoutcub",
+    "image": "https://picsum.photos/seed/checkoutcub/600/400"
+  },
+  {
+    "id": 47,
+    "slug": "invoiceink",
+    "name": "InvoiceInk",
+    "category": "Payments",
+    "tagline": "Accept payments and manage billing.",
+    "description": "InvoiceInk is a payments tool built for online businesses. It helps you accept payments and manage billing, with features like invoice generation, payout reports, and fraud protection. InvoiceInk keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "invoice generation",
+      "payout reports",
+      "fraud protection",
+      "recurring billing"
+    ],
+    "pricing": "$29/mo",
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "rating": 4.9,
+    "reviews": 7371,
+    "website": "https://example.com/tools/invoiceink",
+    "image": "https://picsum.photos/seed/invoiceink/600/400"
+  },
+  {
+    "id": 48,
+    "slug": "askorbit",
+    "name": "AskOrbit",
+    "category": "Survey",
+    "tagline": "Gather feedback and turn it into insight.",
+    "description": "AskOrbit is a survey tool built for researchers and product teams. It helps you gather feedback and turn it into insight, with features like question templates, logic branching, and response analytics. AskOrbit keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "question templates",
+      "logic branching",
+      "response analytics",
+      "anonymous mode"
+    ],
+    "pricing": "$49/mo",
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "rating": 4.2,
+    "reviews": 4170,
+    "website": "https://example.com/tools/askorbit",
+    "image": "https://picsum.photos/seed/askorbit/600/400"
+  },
+  {
+    "id": 49,
+    "slug": "pollpatch",
+    "name": "PollPatch",
+    "category": "Survey",
+    "tagline": "Gather feedback and turn it into insight.",
+    "description": "PollPatch is a survey tool built for researchers and product teams. It helps you gather feedback and turn it into insight, with features like logic branching, question templates, and CSV export. PollPatch keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "logic branching",
+      "question templates",
+      "CSV export",
+      "anonymous mode"
+    ],
+    "pricing": "$19/mo",
+    "platforms": [
+      "Web",
+      "API",
+      "iOS"
+    ],
+    "rating": 4.2,
+    "reviews": 5622,
+    "website": "https://example.com/tools/pollpatch",
+    "image": "https://picsum.photos/seed/pollpatch/600/400"
+  },
+  {
+    "id": 50,
+    "slug": "voicevane",
+    "name": "VoiceVane",
+    "category": "Survey",
+    "tagline": "Gather feedback and turn it into insight.",
+    "description": "VoiceVane is a survey tool built for researchers and product teams. It helps you gather feedback and turn it into insight, with features like logic branching, embeddable widgets, and anonymous mode. VoiceVane keeps things simple so your team can move faster without extra overhead.",
+    "features": [
+      "logic branching",
+      "embeddable widgets",
+      "anonymous mode",
+      "question templates"
+    ],
+    "pricing": "$9/mo",
+    "platforms": [
+      "Web",
+      "API"
+    ],
+    "rating": 4.6,
+    "reviews": 1172,
+    "website": "https://example.com/tools/voicevane",
+    "image": "https://picsum.photos/seed/voicevane/600/400"
+  }
+]
